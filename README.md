@@ -1,4 +1,4 @@
-- 🔭 Hoje eu trabalho com front-end
+- 🔭 Trabalho como freela criando site
 - 🌱 Estudando Python
 - 😄 ele/dele
 
