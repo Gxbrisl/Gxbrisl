@@ -1,6 +1,5 @@
 - 🔭 Trabalho como freela criando site
 - 🌱 Estudando Python
-- 😄 ele/dele
 
 <div align="center">
   <a href="https://github.com/gxbrisl">
